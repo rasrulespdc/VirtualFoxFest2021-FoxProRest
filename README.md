@@ -24,16 +24,16 @@ You will learn:
 
 ## Documents
 
-* [White Paper PDF](https://github.com/RickStrahl/VirtualFoxFest2021-FoxProRest/blob/main/Documents/Strahl_FoxProAndREST.pdf)
+* [White Paper PDF](https://github.com/rasrulespdc/VirtualFoxFest2021-FoxProRest/blob/main/Documents/Strahl_FoxProAndREST.pdf)
 * [White Paper HTML](https://www.west-wind.com/wconnect/weblog/ShowEntry.blog?id=9169) 
-* [Slides](https://github.com/RickStrahl/VirtualFoxFest2021-FoxProRest/raw/main/Documents/Strahl_FoxProREST.pptx)
+* [Slides](https://github.com/rasrulespdc/VirtualFoxFest2021-FoxProRest/raw/main/Documents/Strahl_FoxProREST.pptx)
 
 ## Source Code
 
-* [FoxPro Client Samples](https://github.com/RickStrahl/VirtualFoxFest2021-FoxProRest/tree/main/FoxPro)  
+* [FoxPro Client Samples](https://github.com/rasrulespdc/VirtualFoxFest2021-FoxProRest/tree/main/FoxPro)  
 You can start up FoxPro in the root folder, then run the examples in the `Client` folder. The samples include support libraries in the `\classes` folder.
 
-* [Web Connection REST Service](https://github.com/RickStrahl/VirtualFoxFest2021-FoxProRest/tree/main/FoxPro/WebConnectionServer)  
+* [Web Connection REST Service](https://github.com/rasrulespdc/VirtualFoxFest2021-FoxProRest/tree/main/FoxPro/WebConnectionServer)  
 This folder contains the full Web Connection project described in the Session/White Paper. You need to have a copy Web Connection (shareware version available) in order to run these examples. The `Readme.md` file has additional project configuration instructions.
 
 ## Follow up
